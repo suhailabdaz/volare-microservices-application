@@ -1,0 +1,24 @@
+[submodule "Volare-UI"]
+	path = Volare-UI
+	url = https://github.com/suhailabdaz/volare-ui.git
+[submodule "Volare-api-gateway"]
+	path = Volare-api-gateway
+	url = https://github.com/suhailabdaz/volare_api_gateway.git
+[submodule "Volare-User-Service"]
+	path = Go-User-Service
+	url = https://github.com/suhailabdaz/Volare-user-service.git
+[submodule "Volare-Admin-Service"]
+	path = Volare-Admin-Service
+	url = https://github.com/suhailabdaz/volare-admin-Service.git
+[submodule "Volare-Authority-Service"]
+	path = Volare-Authority-Service
+	url = https://github.com/suhailabdaz/volare-authority-service.git
+[submodule "Volare-Airline-Service]
+	path = Volare-Airline-Service
+	url = https://github.com/suhailabdaz/volare-airline-service.git
+[submodule "Volare-Auth-Service"]
+	path = Volare-Auth-Service
+	url = https://github.com/suhailabdaz/volare-auth-service.git
+[submodule "Volare-Booking-Service"]
+	path = Volare-Booking-Service
+	url = https://github.com/suhailabdaz/volare-sooking-service.git
