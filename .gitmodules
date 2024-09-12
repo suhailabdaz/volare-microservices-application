@@ -13,7 +13,7 @@
 [submodule "Volare-Authority-Service"]
 	path = Volare-Authority-Service
 	url = https://github.com/suhailabdaz/volare-authority-service.git
-[submodule "Volare-Airline-Service]
+[submodule "Volare-Airline-Service"]
 	path = Volare-Airline-Service
 	url = https://github.com/suhailabdaz/volare-airline-service.git
 [submodule "Volare-Auth-Service"]
