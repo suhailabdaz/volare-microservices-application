@@ -19,3 +19,9 @@
 [submodule "Volare-Booking-Service"]
 	path = Volare-Booking-Service
 	url = https://github.com/suhailabdaz/volare-booking-service.git
+[submodule "Volare-auth-service"]
+	path = Volare-auth-service
+	url = https://github.com/suhailabdaz/volare_auth_service.git
+[submodule "Volare-deployment"]
+	path = Volare-deployment
+	url = https://github.com/suhailabdaz/volare-deployment.git
